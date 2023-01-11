@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Ramas");
 
         //commit A
+
+        //commit B
     }
 }
